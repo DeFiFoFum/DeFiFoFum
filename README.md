@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Excited about [ERC-5725](https://eips.ethereum.org/EIPS/eip-5725) becoming official. 🥳
+Excited about [ERC-5725](https://eips.ethereum.org/EIPS/eip-5725) becoming official. 🥳  
+Check out https://github.com/ERC-5725 for official resources.
 
 <!--
 **DeFiFoFum/DeFiFoFum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
