@@ -3,6 +3,12 @@
 Excited about [ERC-5725](https://eips.ethereum.org/EIPS/eip-5725) becoming official. 🥳  
 Check out https://github.com/ERC-5725 for official resources.
 
+### Cypher Punk Spirit
+The "Cypher Punk Spirit", as Vitalik says, resonates with me. Cryptophraphy is an empowering technology which is free and pretty easy to use. 
+
+Here is an example which shows the simplicty of generating a BIP39 mnemonic for generating accounts using 🔐[mnemonic_generator.py](https://replit.com/@DeFiFoFum/mnemonicgenerator#mnemonic_generator.py)
+
+
 <!--
 **DeFiFoFum/DeFiFoFum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
