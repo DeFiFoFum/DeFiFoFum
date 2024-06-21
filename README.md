@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### 💻 Developer Blog
+
+Check out [my blog](https://freelance-2b097a7f.mintlify.app/) related to software engineering! 🤓
+
+### Ethereum & Solidity
+
 Excited about [ERC-5725](https://eips.ethereum.org/EIPS/eip-5725) becoming official. 🥳  
 Check out https://github.com/ERC-5725 for official resources.
 
