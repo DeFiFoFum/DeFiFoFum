@@ -1,4 +1,15 @@
-### Hi there 👋
+<!-- Three.js banner video -->
+<p align="center">
+  <video 
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/78645267/519447213-69c8f9a5-da2d-4780-aceb-ff03e97be887.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251127T000018Z&X-Amz-Expires=300&X-Amz-Signature=76b1d083c9f17448753c67b0d7ebc4e96c9c8018a862948d8a6ee68093a0aad4&X-Amz-SignedHeaders=host"
+    autoplay 
+    loop 
+    muted 
+    playsinline 
+    style="width: 100%; max-width: 900px; border-radius: 12px;">
+  </video>
+</p>
+
 
 ### Ethereum & Solidity
 - [ERC-5725](https://eips.ethereum.org/EIPS/eip-5725)
