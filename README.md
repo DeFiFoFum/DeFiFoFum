@@ -1,4 +1,5 @@
-![defifofum-header](https://github.com/user-attachments/assets/18880439-d9cd-4ba8-ae08-726049334dc5)
+![20251126_1831-ethereum-banner](https://github.com/user-attachments/assets/87322227-9c80-4455-af7a-1da27bdd7cda)
+
 
 ### Ethereum & Solidity
 - [ERC-5725](https://eips.ethereum.org/EIPS/eip-5725)
